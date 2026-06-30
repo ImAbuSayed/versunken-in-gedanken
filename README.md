@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/versunken-in-gedanken/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Versunken in Gedanken](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/versunken-in-gedanken/) |
+| **Get License** | [Official Music Licensing for Versunken in Gedanken](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/versunken-in-gedanken/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, steig ein, Motor an, die Lichter zieh'n vorbei
+> Wir cruisen durch die Nacht, mein Herzschlag on a high
+> Versunken in Gedanken, dein Parfüm in der Luft
+> Du bist mein V.I.P., ich bin süchtig nach dei'm Duft
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
